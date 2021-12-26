@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @nbrgdevelopers41
-- 👀 We're a Startup From India, Who like to develp Software !
-- 💞️ We're looking to collaborate on our OS, NBRG-OS
+- 👋 Hi, We’re @nbrgdevelopers41
+- 👀 We’re a Startup From India, Who like to develop Software !
+- 💞️ We’re looking to collaborate on our OS, NBRG-OS
